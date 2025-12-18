@@ -4,8 +4,9 @@ Social:
 
 Email:Sora#bfban.com
 
+EA:ErnestiEcheBavia
 
-
+Steam:SuishoShizuku
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://music.163.com/song?id=1494001389)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SoraKasvgano&count_private=true&show_icons=true">
