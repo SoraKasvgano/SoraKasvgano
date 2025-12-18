@@ -1,7 +1,8 @@
 ## Ashes to ashes,dust to dust.
 
 Social:
-Sora#bfban.com
+
+Email:Sora#bfban.com
 
 <img align="right" src="https://avatars.githubusercontent.com/u/8521327?v=4" width='300px'>
 
