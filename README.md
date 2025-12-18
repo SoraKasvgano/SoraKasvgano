@@ -4,7 +4,7 @@ Social:
 
 Email:Sora#bfban.com
 
-EA:ErnestiEcheBavia
+EA:[ErnestiEcheBavia](https://tracker.gg/bf1/profile/origin/Ernestiechebavia/overview)
 
 Steam:[SuishoShizuku](https://steamcommunity.com/id/SuishoShizuku/)
 
