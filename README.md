@@ -1,7 +1,5 @@
 ## Ashes to ashes,dust to dust.
 
-Social:
-
 Email:Sora#bfban.com
 
 
