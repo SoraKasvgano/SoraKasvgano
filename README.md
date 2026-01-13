@@ -39,4 +39,4 @@ Email:Sora#bfban.com
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Operating Systems") Operating Systems
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2010&color=eeeeee&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjMDA3OEQ2IiBkPSJNMCAzLjQ0OUw5Ljc1IDIuMXY5LjQ1MUgwbTEwLjk0OS05LjYwMkwyNCAwdjExLjRIMTAuOTQ5TTAgMTIuNmg5Ljc1djkuNDUxTDAgMjAuNjk5TTEwLjk0OSAxMi42SDI0VjI0bC0xMi45LTEuODAxIi8+PHNjcmlwdCB4bWxucz0iIi8+PC9zdmc+&label= "Windows 10")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=eeeeee&logo=Fedora&logoColor=262577&label= "Debian")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=eeeeee&logo=Debian&logoColor=262577&label= "Debian")
