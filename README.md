@@ -9,7 +9,7 @@ Email:Sora#bfban.com
 
 ---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Languages") Languages
-[//]: # (<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoraKasvgano&layout=compact">)
+
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=eeeeee&logo=JavaScript&logoColor=f7d138&label= "JavaScript")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=eeeeee&logo=Go&logoColor=00ADD8&label= "Go")
